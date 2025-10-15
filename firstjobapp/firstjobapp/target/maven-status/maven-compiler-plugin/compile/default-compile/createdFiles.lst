@@ -1,0 +1,16 @@
+com\embarkx\firstjobapp\company\Company.class
+com\embarkx\firstjobapp\company\CompanyRepository.class
+com\embarkx\firstjobapp\job\Job.class
+com\embarkx\firstjobapp\company\CompanyController.class
+com\embarkx\firstjobapp\job\JobService.class
+com\embarkx\firstjobapp\FirstjobappApplication.class
+com\embarkx\firstjobapp\review\Review.class
+com\embarkx\firstjobapp\review\ReviewRepository.class
+com\embarkx\firstjobapp\review\ReviewController.class
+com\embarkx\firstjobapp\job\JobRepository.class
+com\embarkx\firstjobapp\company\impl\CompanyServiceImpl.class
+com\embarkx\firstjobapp\job\JobController.class
+com\embarkx\firstjobapp\review\impl\ReviewServiceImpl.class
+com\embarkx\firstjobapp\company\CompanyService.class
+com\embarkx\firstjobapp\job\impl\JobServiceImpl.class
+com\embarkx\firstjobapp\review\ReviewService.class
